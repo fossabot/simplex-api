@@ -1,4 +1,6 @@
 # Simplex backend API
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fsimplex-api.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fsimplex-api?ref=badge_shield)
+
 
 Full backend api to integrate simplex crypto api powered by nanobox
 
@@ -223,3 +225,6 @@ getQuote
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fsimplex-api.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fsimplex-api?ref=badge_large)
